@@ -1,0 +1,49 @@
+mat-toolbar {
+  background: #154b67;
+}
+
+.example-container {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  right: 0;
+}
+
+div {
+  padding: 1rem;
+}
+
+.example-sidenav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  background: #eeeeee;
+}
+
+.example-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.example-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+mat-icon {
+  color: #6f6f6f;
+
+
+}
+
+span {
+  font-size: 0.8rem;
+  margin-left: 0.5rem;
+  color: #6f6f6f;
+}
+
